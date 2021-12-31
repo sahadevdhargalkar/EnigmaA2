@@ -1,0 +1,10 @@
+[
+  {
+    'steckerbret' : {'a' : 'p', 't' :  'r'},
+    'alpha' : 3,
+    'beta' : 5,
+    'gama' : 9
+  }
+]
+//me=enigma({'a' : 'p', 't' :  'r'},None,3,5,9)
+//me.encrypt_text("pratik")
