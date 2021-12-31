@@ -27,7 +27,4 @@ If Enigma is seted from a json file then this file must have next values in the 
 * beta - an integer that sets the beta rotor.
 * gama - an integer that sets the gama rotor.
 
-Created by Păpăluță Vasile (Science_kot) 
-facebook link: https://www.facebook.com/papaluta.vasile.77 
-instagram link: https://www.instagram.com/science_kot/ 
-e-mail: vpapaluta06@gmail.com vasile.papaluta@microlab.utm.md
+credits to Păpăluță Vasile
